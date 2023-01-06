@@ -6,7 +6,7 @@ A customer's **wealth** is the amount of money they have in all their bank accou
 
 **Example 1:**
 
-> <pre><strong>Input:</strong> accounts = [[1,2,3],[3,2,1]]
+ <pre><strong>Input:</strong> accounts = [[1,2,3],[3,2,1]]
 > <strong>Output:</strong> 6<br>
 > <strong>Explanation</strong><strong>:</strong>
 > <code>1st customer has wealth = 1 + 2 + 3 = 6
@@ -16,7 +16,7 @@ A customer's **wealth** is the amount of money they have in all their bank accou
 
 **Example 2:**
 
-> <pre><strong>Input:</strong> accounts = [[1,5],[7,3],[3,5]]
+<pre><strong>Input:</strong> accounts = [[1,5],[7,3],[3,5]]
 > <strong>Output:</strong> 10
 > <strong>Explanation</strong>:
 > 1st customer has wealth = 6
@@ -26,5 +26,5 @@ A customer's **wealth** is the amount of money they have in all their bank accou
 
 **Example 3:**
 
-> <pre><strong>Input:</strong> accounts = [[2,8,7],[7,1,3],[1,9,5]]
+ <pre><strong>Input:</strong> accounts = [[2,8,7],[7,1,3],[1,9,5]]
 > <strong>Output:</strong> 17</pre>
