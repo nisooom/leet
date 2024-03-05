@@ -10,3 +10,5 @@ class Solution(object):
             if arr_new[i]:
                 print(arr_new[i])
                 return len(arr_new[i])
+
+# Hi
